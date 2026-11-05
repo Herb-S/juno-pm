@@ -4,7 +4,7 @@
 
 [## Prototype link](https://lovable.dev/preview/sxVT1VmJLOXAJvYKj5MFwCcm4SsZ2lEG)
 
-_The public share URL from your build tool. No share URL? A screenshot of the working flow is fine, the prompt is what is assessed._
+<img width="1287" height="1103" alt="Juno screenshot" src="https://github.com/user-attachments/assets/3bbe59fb-4210-42c0-b89d-0372c57be10a" />
 
 _____
 
