@@ -2,7 +2,7 @@
 
 > Module 2 · Prototype. The working build that tests your idea, made with your build tool of choice.
 
-## Prototype link
+[## Prototype link](https://lovable.dev/preview/sxVT1VmJLOXAJvYKj5MFwCcm4SsZ2lEG)
 
 _The public share URL from your build tool. No share URL? A screenshot of the working flow is fine, the prompt is what is assessed._
 
